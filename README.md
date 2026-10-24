@@ -167,7 +167,7 @@ La mise en place du tableau de bord Power BI pour le projet **UrbanStay** offre 
 
 ## Tableau de Bord les différentes pages:
 
-![Page 1 - Les KPIs en infos bulles](UrbanStay1.png)
-![Page 1 - Evolution du nombre de reservation dans le temps en infos bulles](UrbanStay2.png)
-![Page 1 - Comparaison des Performances](UrbanStay3.png)
-![Page 1 - Titre dynamique](UrbanStay4.png)
+![Page 1 - Les KPIs en infos bulles](urbanStay1.png)
+![Page 1 - Evolution du nombre de reservation dans le temps en infos bulles](urbanStay2.png)
+![Page 1 - Comparaison des Performances](urbanStay3.png)
+![Page 1 - Titre dynamique](urbanStay4.png)

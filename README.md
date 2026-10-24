@@ -165,9 +165,8 @@ Dans le cas du projet **UrbanStay**, chaque établissement dispose d'une capacit
 
 La mise en place du tableau de bord Power BI pour le projet **UrbanStay** offre un cadre décisionnel complet alliant la rigueur ETL, la puissance d'un modèle relationnel en flocon et la souplesse d'une restitution visuelle dynamique. Ce rapport constitue une feuille de route analytique solide pour guider les décisions de la direction commerciale et améliorer durablement la rentabilité de la chaîne hôtelière.
 
-## Tableau de Bord les différentes pages:
-
-![Page 1 - Les KPIs en infos bulles](urbanStay1.png)
-![Page 1 - Evolution du nombre de reservation dans le temps en infos bulles](urbanStay2.png)
-![Page 1 - Comparaison des Performances](urbanStay3.png)
-![Page 1 - Titre dynamique](urbanStay4.png)
+## Tableau de Bord des différentes pages:
+![Page 1 - Les KPIs en infos bulles](urbanstay1.png)
+![Page 1 - Evolution du nombre de reservation](urbanstay2.png)
+![Page 1 - Comparaison des Performances](urbanstay3.png)
+![Page 1 - Titre dynamique](urbanstay4.png)
